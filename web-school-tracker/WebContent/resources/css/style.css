@@ -1,0 +1,15 @@
+html{
+  background-color: #408080
+}
+
+.text-center{
+  margin: auto;
+  width: 100%;
+  padding: 50px;
+  background-color: #408080
+  
+}
+
+btn btn-danger{
+	background-color: #408080
+}
